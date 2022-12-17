@@ -84,4 +84,12 @@ import { coutingMinutes } from "./easy/24_coutingMinutes.js";
 
 import { meanMode } from "./easy/25_meanMode.js";
 
-console.log(meanMode([1,3,3,3,5]))
+// console.log(meanMode([1,3,3,3,5]))
+
+import { dashInsert } from "./easy/26_dashInsert.js";
+
+// console.log(dashInsert("45937297cb79"))
+
+import { swapCase } from "./easy/27_swapCase.js";
+
+console.log(swapCase("Hello World"))
