@@ -92,4 +92,8 @@ import { dashInsert } from "./easy/26_dashInsert.js";
 
 import { swapCase } from "./easy/27_swapCase.js";
 
-console.log(swapCase("Hello World"))
+// console.log(swapCase("Hello World"))
+
+import { additivePersistence } from "./easy/31_additivePersistence.js";
+
+console.log(additivePersistence(2718))
