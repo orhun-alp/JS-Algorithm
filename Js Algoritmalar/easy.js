@@ -96,4 +96,12 @@ import { swapCase } from "./easy/27_swapCase.js";
 
 import { additivePersistence } from "./easy/31_additivePersistence.js";
 
-console.log(additivePersistence(2718))
+// console.log(additivePersistence(2718))
+
+import { multiplicativePersistance } from "./easy/32_multiplicativePersistance.js";
+
+// console.log(multiplicativePersistance(39))
+
+import { offLineMin } from "./easy/33_offLineMin.js";
+
+console.log(offLineMin(["5","4","6","E","1","7","E","E","3","2"]))
