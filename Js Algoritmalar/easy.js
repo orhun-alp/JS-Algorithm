@@ -104,4 +104,23 @@ import { multiplicativePersistance } from "./easy/32_multiplicativePersistance.j
 
 import { offLineMin } from "./easy/33_offLineMin.js";
 
-console.log(offLineMin(["5","4","6","E","1","7","E","E","3","2"]))
+// console.log(offLineMin(["5","4","6","E","1","7","E","E","3","2"]))
+
+import { changingSequence } from "./easy/34_changingSequence.js";
+
+// console.log(changingSequence([1, 2, 4, 6, 4, 2, 1]));
+// console.log(changingSequence([1, 2, 4, 6, 8, 2, 1]));
+// console.log(changingSequence([9, 8, 7, 6, 5, 7]));
+
+import { overlappingRanges } from "./easy/35_overlappingRanges.js";
+
+// console.log(overlappingRanges([4, 10, 2, 6, 3]));
+
+import { superIncreasing } from "./easy/36_superIncreasing.js";
+
+// console.log(superIncreasing([1, 3, 6, 14, 54]));
+
+import { hammingDistance } from "./easy/37_hammingDistance.js";
+
+console.log(hammingDistance("karolin", "kathrin"));
+console.log(hammingDistance("karolin", "kerstin"));
