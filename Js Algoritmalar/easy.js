@@ -120,7 +120,31 @@ import { superIncreasing } from "./easy/36_superIncreasing.js";
 
 // console.log(superIncreasing([1, 3, 6, 14, 54]));
 
-import { hammingDistance } from "./easy/37_hammingDistance.js";
+// import { hammingDistance } from "./easy/37_hammingDistance.js";
 
-console.log(hammingDistance("karolin", "kathrin"));
-console.log(hammingDistance("karolin", "kerstin"));
+// console.log(hammingDistance("karolin", "kathrin"));
+// console.log(hammingDistance("karolin", "kerstin"));
+
+import { bitWise } from "./easy/38_bitWise.js";
+
+// console.log(bitWise(["11000", "01110"]));
+
+import { checkNums } from "./easy/11_checkNums.js";
+
+// console.log(checkNums(6, 5));
+
+import { waveSorting } from "./easy/39_waveSorting.js";
+
+// console.log(waveSorting([3, 6, 5, 10, 20, 7]));
+
+import { binaryReversal } from "./easy/41_binaryReversal.js";
+
+//  console.log(binaryReversal("47"));
+
+import { firstNonRepeating } from "./easy/43_firstNonRepeating.js";
+
+// console.log(firstNonRepeating("sTreSS"));
+
+import { twoSum } from "./easy/44_twoSum.js";
+
+console.log(twoSum([3, 2, 4], 6));
